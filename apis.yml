@@ -2,7 +2,7 @@ aid: exlservice-holdings
 url: https://raw.githubusercontent.com/api-evangelist/exlservice-holdings/refs/heads/main/apis.yml
 name: ExlService Holdings
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Analytics
   - Digital Operations
@@ -19,7 +19,7 @@ apis:
       - Analytics
       - Digital Operations
       - BPO
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.exlservice.com
     humanURL: https://developer.exlservice.com
     properties:
