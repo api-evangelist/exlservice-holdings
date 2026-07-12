@@ -28,6 +28,8 @@ apis:
     description: >-
       The ExlService Holdings API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/exlservice-holdings-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/exl-service
   - type: Website
