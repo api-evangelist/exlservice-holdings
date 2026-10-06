@@ -33,7 +33,7 @@ tags:
 description: >-
   ExlService Holdings is a major US corporation and Fortune 1000 company. The ExlService Holdings API provides programmatic access to its platform services, data, and integrations for enterprise customers and partners.
 created: '2026-04-19'
-modified: '2026-04-19'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: exlservice-holdings:exlservice-holdings-api
@@ -51,6 +51,8 @@ apis:
     description: >-
       The ExlService Holdings API provides access to platform services and data for enterprise integration and automation.
 common:
+  - url: https://www.exlservice.com/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/exlservice-holdings-domain-security.yml
   - type: LinkedIn
